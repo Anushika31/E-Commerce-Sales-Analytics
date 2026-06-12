@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Brazilian E-Commerce sales data using Python, SQL and Power BI.
+This project analyzes Brazilian E-Commerce sales data using Python, Power BI.
 
 The objective is to identify sales trends, customer behavior, product performance and delivery efficiency.
 
